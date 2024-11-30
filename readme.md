@@ -1,8 +1,3 @@
-# Dexxie
+# How good is that Pokémon Actually
 
-Yet Another Pokedex Project
-
-## Attributions
-
-### Translations
-Initial translations for german have been sourced from [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/List_of_German_Pok%C3%A9mon_names)
+This is a simple project to help you determine if your pokemon is actually good or not. Dispelling the belief that you must have "perfect" iv's.
